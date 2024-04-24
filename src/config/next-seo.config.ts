@@ -4,7 +4,7 @@ import { DefaultSeoProps } from 'next-seo';
 const config: DefaultSeoProps = {
   titleTemplate: '%s | HMG Developers',
   defaultTitle: 'HMG Developers',
-  canonical: 'https://developers.hyundaimotorgroup.com/',
+  // canonical: 'https://developers.hyundaimotorgroup.com/',
   openGraph: {
     type: 'website',
     locale: 'ko_KR',
