@@ -20,11 +20,11 @@ const config: DefaultSeoProps = {
         // 9kb jpg
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951705691.jpg',
         // 13kb png
-        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/13kb.png',
+        // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/13kb.png',
         // 17kb jpb x
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951455820.jpg',
         // 17kb png x
-        // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951628549.png',
+        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951628549.png',
         // 50kb jpg x
         // url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
         width: 1200,
