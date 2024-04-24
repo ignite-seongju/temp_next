@@ -13,7 +13,10 @@ const config: DefaultSeoProps = {
     description: 'HMG Developer Website',
     images: [
       {
-        url: 'https://www.researchgate.net/profile/Krithivasan-Ramamritham/publication/3943341/figure/fig1/AS:279954282565646@1443757710823/Basic-scenario-for-TransSquid.png',
+        // 5kb
+        // url: 'https://www.researchgate.net/profile/Krithivasan-Ramamritham/publication/3943341/figure/fig1/AS:279954282565646@1443757710823/Basic-scenario-for-TransSquid.png',
+        // 50kb
+        url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
         width: 1200,
         height: 630,
         alt: 'HMG Developers Thumbnail Image',
