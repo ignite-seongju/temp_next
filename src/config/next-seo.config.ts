@@ -13,17 +13,19 @@ const config: DefaultSeoProps = {
     description: 'HMG Developer Website',
     images: [
       {
-        // 5kb
+        // 5kb png o
         // url: 'https://www.researchgate.net/profile/Krithivasan-Ramamritham/publication/3943341/figure/fig1/AS:279954282565646@1443757710823/Basic-scenario-for-TransSquid.png',
-        // 10kb png
+        // 10kb png o
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713950191933.png',
         // 9kb jpg
-        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951705691.jpg',
-        // 17kb jpb
+        // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951705691.jpg',
+        // 13kb png
+        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/13kb.png',
+        // 17kb jpb x
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951455820.jpg',
-        // 17kb png
+        // 17kb png x
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951628549.png',
-        // 50kb jpg
+        // 50kb jpg x
         // url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
         width: 1200,
         height: 630,
