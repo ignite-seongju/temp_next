@@ -16,7 +16,9 @@ const config: DefaultSeoProps = {
         // 5kb
         // url: 'https://www.researchgate.net/profile/Krithivasan-Ramamritham/publication/3943341/figure/fig1/AS:279954282565646@1443757710823/Basic-scenario-for-TransSquid.png',
         // 50kb
-        url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
+        // url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
+        // 10kb
+        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713950191933.png',
         width: 1200,
         height: 630,
         alt: 'HMG Developers Thumbnail Image',
