@@ -15,12 +15,14 @@ const config: DefaultSeoProps = {
       {
         // 5kb
         // url: 'https://www.researchgate.net/profile/Krithivasan-Ramamritham/publication/3943341/figure/fig1/AS:279954282565646@1443757710823/Basic-scenario-for-TransSquid.png',
-        // 10kb
+        // 10kb png
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713950191933.png',
+        // 9kb jpg
+        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951705691.jpg',
         // 17kb jpb
         // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951455820.jpg',
         // 17kb png
-        url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951628549.png',
+        // url: 'https://tempnext.s3.ap-northeast-2.amazonaws.com/imresizer-1713951628549.png',
         // 50kb jpg
         // url: 'https://sample-videos.com/img/Sample-jpg-image-50kb.jpg',
         width: 1200,
